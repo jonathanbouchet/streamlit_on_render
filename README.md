@@ -7,4 +7,3 @@
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/jonathanbouchet/streamlit_on_render/blob/main/streamlit_render_deployed.png">
 </picture>
-![as deployed]([http://url/to/img.png](https://github.com/jonathanbouchet/streamlit_on_render/blob/main/streamlit_render_deployed.png))
